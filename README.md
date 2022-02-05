@@ -4,4 +4,3 @@
 |[week01](homework/week01/README.md)|[week01](lab/week01/README.md)]|            |
 |[week01](homework/week01/README.md)|[week01](lab/week01/README.md)]|            |     
 |[week01](homework/week01/README.md)|[week01](lab/week01/README.md)]|            |
-| 1| 2| 3|
