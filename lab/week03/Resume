@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <title>Rsume</title>
+     <link href='style.css' rel='stylesheet'>
+ </head>
+
+
+
+<body>
+  <h1>Darby Kirkland Resume</h1>
+  <div id="introduction">
+    <h>Contact Information</h2>
+    <ul>
+      <li>713-703-9419</li>
+      <li>1903 Dartmouth St, College Station, Tx 77840</li>
+      <li>darbykirkland@tamu.edu</li>
+    </ul>
+    <a href="https://www.linkedin.com/in/darbykirkland" target="_blank">LinkedIn</a>
+    <h3>About Me</h3>
+    <p style="color: rebeccapurple";>Senior GIST major graduation December 2022 from Texas A&M University</p>
+  </div>
+  <div id="Experience">
+    <h2>Experience</h2>
+    <h3>Employment</h3>
+    <ul>
+      <li>Texas A&M Transportation Services - Student GIS worker. Update campus transportation maps, bus routes, and construction updates to Aggie Map.</li>
+      <li>US Army - Infantryman in the United States Army. Active Duty 2015-2019</li>
+      <li>Chem-Dry - Technician for a cartpet cleaning company.</li>
+    </ul>
+    <h3>Education</h3>
+    <ul>
+        <li>Texas A&M University class of 2022. BS in GIST.</li>
+        <li>Kingwood High School class of 2014</li>
+        </ul>
+  </div>
+  <div id="media">
+    <h2 style="color: blue";> Media<h2>
+    <img src="C:\Colorado.jpg" alt="Me on a Mountain" width="175" height="250">/> 
+    <img src="C:\Army.jpg" alt="Me in Army Uniform" width="175" height="250">/>
+  </div>
+</body>
+</html>
