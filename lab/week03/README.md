@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### This is lab 3 Resume and pictures uploaded! Thank you.
 <!--
 **darbykirkland/darbykirkland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
