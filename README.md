@@ -4,3 +4,6 @@
 |[week01](homework/week01/README.md)|[week01](lab/week01/README.md)]|            |
 |[week02](homework/week02/README.md)|[week02](lab/week02/README.md)]|            |     
 |[week03](homework/week03/README.md)|[week03](lab/week03/README.md)]|            |
+|[week04](homework/week01/README.md)|[week04](lab/week01/README.md)]|            |
+|[week05](homework/week02/README.md)|[week05](lab/week02/README.md)]|            |     
+|[week06](homework/week03/README.md)|[week06](lab/week03/README.md)]|            |
